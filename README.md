@@ -1,2 +1,6 @@
 # Music-Player-Version2
-Yo
+For this program you might need the following:
+Python
+Pygame
+Mutagen
+Tkinter
